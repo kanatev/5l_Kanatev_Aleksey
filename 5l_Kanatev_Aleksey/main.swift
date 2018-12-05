@@ -266,6 +266,8 @@ print(sportCarTwo)
 
 sportCarThree.changeEngineState()
 
+sportCarTwo.changeDoorState()
+
 sportCarThree.currentSpeed = 400
 
 print(sportCarThree)
